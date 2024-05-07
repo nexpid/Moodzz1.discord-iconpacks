@@ -1,5 +1,5 @@
 # Iconpacks for [Bunny](https://github.com/pyoncord/Bunny) themes+
-[Solar](https://www.figma.com/community/file/1166831539721848736) and (updated) Rosiecord iconsax
+[Solar](https://www.figma.com/community/file/1166831539721848736) and (updated) Rosiecord iconsax & plumpy
 ## Usage
 
 1. Install Nexx's Themes+ plugin in Bunny (should work for Enmity/Rosiecord)
@@ -17,5 +17,5 @@ https://vendetta.nexpid.xyz/themes-plus
 ```
 https://raw.githubusercontent.com/rairof/discord-iconpacks/master/Packs/Plumpy/
 ```
-3. Put `@2x` in filename suffix
+3. Remove `@2x` in filename suffix if it's preset for android users
 4. Tap Reload in main page
