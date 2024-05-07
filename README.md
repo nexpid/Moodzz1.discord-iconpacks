@@ -10,7 +10,7 @@ https://vendetta.nexpid.xyz/themes-plus
 5. Go to Themes+ settings, tap on `Configuration`
 6. Choose Solar
 
->If you want to use my updated iconsax (PR not merged in Rosiecord yet guh)
+>If you want to use my updated plumpy (PR not merged in Rosiecord yet guh)
 
 1. Click `Custom` in themes+ configuration settings
 2. On `URL` put iconpack link
