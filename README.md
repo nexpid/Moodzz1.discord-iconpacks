@@ -15,7 +15,7 @@ https://vendetta.nexpid.xyz/themes-plus
 1. Click `Custom` in themes+ configuration settings
 2. On `URL` put iconpack link
 ```
-https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Iconsax/
+https://raw.githubusercontent.com/rairof/discord-iconpacks/master/Packs/Plumpy/
 ```
 3. Put `@2x` in filename suffix
 4. Tap Reload in main page
