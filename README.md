@@ -30,8 +30,3 @@ https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Iconsax
 3. Tap Reload in main page
 4. ![image](https://github.com/Moodzz1/discord-iconpacks/assets/88912716/2a8df743-39a2-4240-ac98-f4692c387ab2)
 5. Done
-
-3. Tap Reload in main page
-4. ![image](https://github.com/Moodzz1/discord-iconpacks/assets/88912716/2a8df743-39a2-4240-ac98-f4692c387ab2)
-5. Done
->>>>>>> 3a98e3f52e76da18c3e86ad841c95983a1abdc1a
