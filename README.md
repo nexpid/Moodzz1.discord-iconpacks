@@ -3,8 +3,16 @@
 [Solar](https://www.figma.com/community/file/1166831539721848736) and (updated) Rosiecord iconsax & plumpy
 =======
 # Iconpacks for [Pyoncord](https://github.com/pyoncord) themes+
+<<<<<<< HEAD
 [Solar](https://www.figma.com/community/file/1166831539721848736) - comes in 3 different styles: bold, bold duotone, broken and (updated) Rosiecord iconsax
 >>>>>>> 3a98e3f52e76da18c3e86ad841c95983a1abdc1a
+=======
+
+- [Solar](https://www.figma.com/community/file/1166831539721848736) - comes in 3 different styles: bold, bold duotone, broken and
+- (Updated) rosiecord iconsax
+- (Updated) rosiecord plumpy - maintained by [Rairof](https://github.com/Rairof)
+
+>>>>>>> d76bca65a96f5b19c7de1f257afed057ff8966c5
 ## Usage
 
 1. Install Nexx's Themes+ plugin in Pyoncord (should work for Enmity/Rosiecord)
